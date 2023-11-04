@@ -1,0 +1,10 @@
+
+Logging
+Unit and Integration testing
+Dependency Injection
+Solution Architecture
+Web API
+gRPC
+Test Driven Development
+Clean Architecture
+Domain Driven Design
