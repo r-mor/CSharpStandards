@@ -1,4 +1,4 @@
-﻿namespace _9_Threading_and_Synchronization
+﻿namespace _02_OOP
 {
     internal class Program
     {

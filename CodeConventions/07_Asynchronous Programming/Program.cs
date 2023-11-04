@@ -1,4 +1,4 @@
-﻿namespace BestPractices
+﻿namespace _07_Asynchronous_Programming
 {
     internal class Program
     {

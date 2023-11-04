@@ -1,4 +1,4 @@
-﻿namespace MemoryManagement__Garbage_Collection
+﻿namespace _09_Threading_and_Synchronization
 {
     internal class Program
     {

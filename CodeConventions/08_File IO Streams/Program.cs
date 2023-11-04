@@ -1,4 +1,4 @@
-﻿namespace OOP
+﻿namespace _08_File_IO_Streams
 {
     internal class Program
     {

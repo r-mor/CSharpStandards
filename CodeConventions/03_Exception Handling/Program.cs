@@ -1,4 +1,4 @@
-﻿namespace _4_Delegates__Events_and_Lambdas
+﻿namespace _03_Exception_Handling
 {
     internal class Program
     {

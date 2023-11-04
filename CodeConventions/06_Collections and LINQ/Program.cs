@@ -1,4 +1,4 @@
-﻿namespace _6_Collections_and_LINQ
+﻿namespace _06_Collections_and_LINQ
 {
     internal class Program
     {

@@ -1,4 +1,4 @@
-﻿namespace _8_File_IO_Streams
+﻿namespace _04_Memory_Management__Garbage_Collection
 {
     internal class Program
     {

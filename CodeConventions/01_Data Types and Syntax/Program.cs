@@ -1,4 +1,4 @@
-﻿namespace _7_Asynchronous_Programming
+﻿namespace _01_Data_Types_and_Syntax
 {
     internal class Program
     {
