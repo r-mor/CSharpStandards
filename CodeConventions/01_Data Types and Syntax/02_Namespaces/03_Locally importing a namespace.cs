@@ -1,6 +1,6 @@
-﻿using Color;
+﻿//When locally importing a namespace, try to add in a comment which type is being used in code:
 
-//When locally importing a namespace, try to add in a comment which type is being used in code:
+using Color; //Orange
 using System.Globalization; //CultureInfo
 
 namespace localImport;
