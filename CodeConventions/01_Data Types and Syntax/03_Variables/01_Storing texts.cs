@@ -9,17 +9,27 @@ internal class Subject : Topic
 
     public override void Print()
     {
-
+        // literal vs verbatim strings
         ShowLiteralAndVerbatimStrings();
         WriteLine();
+
+        // interpolated strings
         ShowInterpolatedStrings();
         WriteLine();
+
+        // formatted strings
         ShowFormattedStringsTable();
         WriteLine();
+
+        // decimal to money
         ShowDecimalToMoney();
         WriteLine();
+
+        // display timer
         ShowTimerMilliSeconds();
         WriteLine();
+
+        // big list of formatted strings
         ShowBigListOfFormattedStrings();
     }
 
@@ -86,6 +96,7 @@ internal class Subject : Topic
         // Literal Strings vs Verbatim Strings
         string fullNameLiteral = "Pascal\tSiakam"; //Pascal  Siakam
         string fullNameVerbatim = @"Pascal\tSiakam"; //Pascal\tSiakam
+        // for URLs, use verbatim
 
         WriteLine($"fullNameLiteral = {fullNameLiteral}");
         WriteLine($"fullNameVerbatim = {fullNameVerbatim}");

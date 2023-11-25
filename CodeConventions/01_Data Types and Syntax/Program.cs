@@ -19,7 +19,8 @@ internal class Program
         List<Topic> topics = new()
         {
             new section01_chap03_topic01.Subject(),
-            new section01_chap03_topic02.Subject()
+            //new section01_chap03_topic02.Subject()
+            new section01_chap03_topic03.Subject()
         };
 
         return topics;
